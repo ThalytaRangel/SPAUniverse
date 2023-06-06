@@ -1,5 +1,4 @@
-# spa-universe
-Desafio SPA Universe- Stage 06 -  Javascript Antes do Framework (Módulo 01)
+
 <h1 align="center"> Stage 06 -  SPA UNIVERSE - EXPLORER </h1>
 
 <p align="center">
