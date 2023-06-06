@@ -2,8 +2,8 @@
 <h1 align="center"> Stage 06 -  SPA UNIVERSE - EXPLORER </h1>
 
 <p align="center">
-Desafio desenvolvido para a conclusão do Módulo 01 do Stage 06 (Javascript Antes do Framework) - Explorer  
-  Página desenvolvida para fortalecer o aprendizado dos conceitos da Single Page Aplication, mapeapeamento de rotas, assincronismo e promessas.  <br/>
+Desafio desenvolvido para a conclusão do Módulo 01 do Stage 06 (Javascript Antes do Framework) - Explorer  <br>
+Página desenvolvida para fortalecer o aprendizado dos conceitos da Single Page Aplication, mapeapeamento de rotas, assincronismo e promessas.  <br/>
 </p>
 
 <p align="center">
